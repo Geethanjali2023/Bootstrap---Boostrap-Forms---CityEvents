@@ -57,10 +57,10 @@
 
 ## Fill in the Blanks
 
-1. ** `___1___`: ** Use "custom-header bg-primary text-white" for a styled header.
-2. ** `___2___`: ** Apply "form" to create a structured form element.
-3. ** `___3___`: ** Use "btn-primary" for a primary styled submit button.
-4. ** `___4___`: ** Use "custom-footer bg-dark text-white" for a styled footer.
+1.  `___1___`:  Use "custom-header bg-primary text-white" for a styled header.
+2.  `___2___`:  Apply "form" to create a structured form element.
+3.  `___3___`:  Use "btn-primary" for a primary styled submit button.
+4.  `___4___`:  Use "custom-footer bg-dark text-white" for a styled footer.
 
 ## Explanation
 
