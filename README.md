@@ -1,4 +1,4 @@
-# CityEvents Web Application Development Exercise
+# CityEvents Web Application Development
 
 ## Scenario
 **Business Problem:** Develop an interactive and responsive web application for "CityEvents", a company that organizes local events. The application should include an event listing, a registration form, and user feedback section.
