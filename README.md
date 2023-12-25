@@ -54,6 +54,18 @@
   - Use `form-check`, `form-control`, `form-group` for structured and appealing forms. 
   - Ensure the forms are user-friendly and responsive.
 
+
+## Fill in the Blanks
+
+1. ** `___1___`: ** Use "custom-header bg-primary text-white" for a styled header.
+2. ** `___2___`: ** Apply "form" to create a structured form element.
+3. ** `___3___`: ** Use "btn-primary" for a primary styled submit button.
+4. ** `___4___`: ** Use "custom-footer bg-dark text-white" for a styled footer.
+
+## Explanation
+
+This exercise provides a practical application of Bootstrap 4, HTML, and CSS through the development of a responsive web application for "CityEvents". Candidates will gain hands-on experience in creating responsive layouts, formulating forms, applying semantic HTML for content structuring, customizing styles with CSS, and utilizing Bootstrap typography and form classes. The fill-in-the-blanks approach reinforces learning by encouraging candidates to apply concepts directly in code, with hints and structure provided for guidance. This comprehensive task not only tests their knowledge but also enhances their practical skills in web development.
+
 ## Detailed Code Snippets with Fill in the Blanks
 
 ```html
@@ -98,16 +110,7 @@
     </footer>
 </body>
 </html>
-```html
 
 
-## Fill in the Blanks
 
-1. ** `___1___`: ** Use "custom-header bg-primary text-white" for a styled header.
-2. ** `___2___`: ** Apply "form" to create a structured form element.
-3. ** `___3___`: ** Use "btn-primary" for a primary styled submit button.
-4. ** `___4___`: ** Use "custom-footer bg-dark text-white" for a styled footer.
 
-## Explanation
-
-This exercise provides a practical application of Bootstrap 4, HTML, and CSS through the development of a responsive web application for "CityEvents". Candidates will gain hands-on experience in creating responsive layouts, formulating forms, applying semantic HTML for content structuring, customizing styles with CSS, and utilizing Bootstrap typography and form classes. The fill-in-the-blanks approach reinforces learning by encouraging candidates to apply concepts directly in code, with hints and structure provided for guidance. This comprehensive task not only tests their knowledge but also enhances their practical skills in web development.
