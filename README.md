@@ -68,7 +68,7 @@ This exercise provides a practical application of Bootstrap 4, HTML, and CSS thr
 
 ## Detailed Code Snippets with Fill in the Blanks
 
-```html
+
 <!DOCTYPE html>
 <html>
 <head>
