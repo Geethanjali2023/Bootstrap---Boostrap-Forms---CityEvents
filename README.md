@@ -98,20 +98,7 @@
     </footer>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```html
 
 
 ## Fill in the Blanks
