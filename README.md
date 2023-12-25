@@ -66,8 +66,13 @@
 
 This exercise provides a practical application of Bootstrap 4, HTML, and CSS through the development of a responsive web application for "CityEvents". Candidates will gain hands-on experience in creating responsive layouts, formulating forms, applying semantic HTML for content structuring, customizing styles with CSS, and utilizing Bootstrap typography and form classes. The fill-in-the-blanks approach reinforces learning by encouraging candidates to apply concepts directly in code, with hints and structure provided for guidance. This comprehensive task not only tests their knowledge but also enhances their practical skills in web development.
 
-## Detailed Code Snippets with Fill in the Blanks
 
+
+## 📸 Screenshots
+![image](https://github.com/Geethanjali2023/Bootstrap---Boostrap-Forms---CityEvents/blob/main/image_20231225_185945ae26e831-93e5-48a0-bca2-e97581028431.jpg)
+
+## Detailed Code Snippets with Fill in the Blanks
+'''html
 
 <!DOCTYPE html>
 <html>
@@ -112,6 +117,3 @@ This exercise provides a practical application of Bootstrap 4, HTML, and CSS thr
 </html>
 
 <!-- End of the code block for your HTML code -->
-
-## 📸 Screenshots
-![image](https://github.com/Geethanjali2023/Bootstrap---Boostrap-Forms---CityEvents/blob/main/image_20231225_185945ae26e831-93e5-48a0-bca2-e97581028431.jpg)
